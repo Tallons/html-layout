@@ -1,0 +1,65 @@
+header{
+  margin: 25px;
+  height: 200px;
+  border: solid;
+  border-width: 3px;
+  border-color: black;
+}
+.small-box{
+  position: absolute;
+  left:35px;
+  top: 100px;
+  width: 40px;
+  height: 120px;
+  background-color: blueviolet;
+}
+.big-box {
+  margin-left:100px;
+  margin-top: 8px;
+  width:400px;
+  height:180px;
+  background-color: green;
+}
+.circle{
+  height: 175px;
+  width:175px;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  left:575px;
+  top: 40px;
+  background-color: lightblue;
+}
+section{
+  margin: 25px;
+  height: 210px;
+  border: dotted;
+  border-width: 3px;
+  border-color: black;
+
+
+}
+
+.long-box{
+  margin: 50px 35px 25px 35px;
+  height: 130px;
+  background-color: palegoldenrod;
+  box-shadow: 5px 5px 5px;
+  
+}
+.hello{
+  display: flex;
+  margin: auto;
+  height: 300px;
+  width: 500px;
+  box-shadow: 2px 2px 5px black;
+  justify-content: center;
+  align-items: center;
+  font-family: Times;
+  font-size: 25px;
+  letter-spacing: 8px;
+  font-weight: bold;
+  color: blue;
+  text-align: center;
+  line-height: 1.2;
+}

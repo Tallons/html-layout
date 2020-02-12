@@ -1,0 +1,32 @@
+header {
+  background-color: rgb(97, 96, 96);
+  height: 150px;
+}
+.content-left {
+  background-color: rgb(207, 204, 204);
+  width: 15%;
+  height: 610px;
+  display: inline-block;
+
+}
+
+section {
+  height: 500px;
+  width: 69%;
+  display: inline-block;
+
+}
+
+.content-right {
+    background-color: rgb(207, 204, 204);
+    width: 15%;
+    height: 610px;
+    display: inline-block;
+
+}
+
+footer{
+  background-color: black;
+  height: 105px;
+  margin-top: 395px;
+}
